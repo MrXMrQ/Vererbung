@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Himmelskoerper
+comment1.params=name\ durchmesser\ masse
+comment1.target=Himmelskoerper(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getDuchmesser()
+comment4.params=
+comment4.target=double\ getMasse()
+numComments=5

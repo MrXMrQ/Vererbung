@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Asteroidenring
+comment1.params=name\ durchmesser\ masse\ zugehoerigkeit\ anzahl
+comment1.target=Asteroidenring(java.lang.String,\ int,\ double,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getAnzahl()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

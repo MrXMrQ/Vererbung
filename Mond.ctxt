@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mond
+comment1.params=name\ durchmesser\ masse\ atmosphaere\ magnetfeld\ mondName\ anzahlMond
+comment1.target=Mond(java.lang.String,\ int,\ double,\ boolean,\ boolean,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMondName()
+comment3.params=
+comment3.target=int\ getAnzahlMond()
+numComments=4
